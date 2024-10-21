@@ -1,2 +1,4 @@
 # FineTuning-Notebooks
-this repo is collection of all my fine tuning notebooks for different models
+This repo currently houses fine tuning notebooks for following models.
+
+1. Idefics_9B [Notebook]{idefics 9b FT.ipynb}
